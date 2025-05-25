@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 📫 Reach Me At
+- ✉️ [kcasbon@berkeley.edu](mailto:kcasbon@berkeley.edu)
+- 💼 [LinkedIn](linkedin.com/in/kyle-casbon-026a70230)
+<!-- - 🌐 [Portfolio](https://alexdev.dev)
+-->
