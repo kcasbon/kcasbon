@@ -3,7 +3,7 @@
 🌌 Double-majoring in **Computer Science** and **Astrophysics** at **UC Berkeley**  
 📍 Based in the Greater Chicago Area & Bay Area  
 📧 Reach me at [kcasbon@berkeley.edu](mailto:kcasbon@berkeley.edu)  
-🔗 [LinkedIn](https://linkedin.com/in/kyle-casbon) • [GitHub](https://github.com/kcasbon)
+🔗 [LinkedIn](https://linkedin.com/in/kyle-casbon)
 
 ---
 
@@ -43,19 +43,16 @@ Git/GitHub, Jupyter, ADQL, Bash, Logisim Evolution
 
 ## 🚀 Featured Projects
 
-- 🌀 [Galaxy Morphology Classifier](https://github.com/kcasbon)  
+- 🌀 Galaxy Morphology Classifier
   Deep learning pipeline using **CNNs + SDSS imaging** to classify galaxies and estimate merger rates
 
-- 🔭 [Stellar Spectra Modeling](https://github.com/kcasbon)  
+- 🔭 Stellar Spectra Modeling
   Inference of stellar parameters from APOGEE spectra using **MCMC + neural nets**
 
-- 🌐 [berkeleyclubs.com](https://github.com/kcasbon)  
-  Full-stack portal (T3 Stack) for 1,000+ students and orgs to connect at UC Berkeley
-
-- 🧠 [Proto DB](https://github.com/kcasbon)  
+- 🧠 [Proto DB](https://github.com/kcasbon/proto-db)  
   Relational DB engine with query optimization and concurrency control
 
-- 💾 [Gitlet](https://github.com/kcasbon)  
+- 💾 [Gitlet](https://github.com/kcasbon/gitlet)  
   Java-based Git version control clone supporting branching, merging, and logging
 
 ---
@@ -63,8 +60,7 @@ Git/GitHub, Jupyter, ADQL, Bash, Logisim Evolution
 ## 📫 Let's Connect!
 
 - ✉️ Email: [kcasbon@berkeley.edu](mailto:kcasbon@berkeley.edu)  
-- 💼 LinkedIn: [linkedin.com/in/kyle-casbon](https://linkedin.com/in/kyle-casbon)  
-- 🧑‍💻 GitHub: [github.com/kcasbon](https://github.com/kcasbon)
+- 💼 LinkedIn: [linkedin.com/in/kyle-casbon]([https://linkedin.com/in/kyle-casbon](https://www.linkedin.com/in/kyle-casbon-026a70230/))  
 
 ---
 
