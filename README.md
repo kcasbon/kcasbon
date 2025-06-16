@@ -43,16 +43,16 @@ Git/GitHub, Jupyter, ADQL, Bash, Logisim Evolution
 
 ## 🚀 Featured Projects
 
-- 🌀 Galaxy Morphology Classifier
+- 🌀 Galaxy Morphology Classifier:\
   Deep learning pipeline using **CNNs + SDSS imaging** to classify galaxies and estimate merger rates
 
-- 🔭 Stellar Spectra Modeling
+- 🔭 Stellar Spectra Modeling:\
   Inference of stellar parameters from APOGEE spectra using **MCMC + neural nets**
 
-- 🧠 [Proto DB](https://github.com/kcasbon/proto-db)  
+- 🧠 [Proto DB](https://github.com/kcasbon/proto-db):\
   Relational DB engine with query optimization and concurrency control
 
-- 💾 [Gitlet](https://github.com/kcasbon/gitlet)  
+- 💾 [Gitlet](https://github.com/kcasbon/gitlet):\
   Java-based Git version control clone supporting branching, merging, and logging
 
 ---
